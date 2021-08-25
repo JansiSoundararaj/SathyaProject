@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+
+		<!-- <parameter name="userName" value="Administrator" />
+		<parameter name="password" value="Admin@321$" /> -->
+
+		<classes>
+			<class name="com.sathya.mobilePage.MobilePage" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
